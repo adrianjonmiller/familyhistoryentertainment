@@ -157,6 +157,8 @@ function minimum_portfolio_items( $query ) {
 
 }
 
+
+
 /** Register widget areas */
 genesis_register_sidebar( array(
 	'id'				=> 'home-featured-1',
